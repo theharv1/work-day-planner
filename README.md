@@ -11,8 +11,10 @@ to schedule your work day.
 * Bootstrap
 
 ## Website
-
+https://theharv1.github.io/work-day-planner/index.html
 
 ## Contribution
 Made by Shawn 
 
+## Screenshot
+![index](./Assets/img/screenshot.png)
